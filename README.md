@@ -29,6 +29,10 @@ Because an incorrect match could expose confidential payroll information, the wo
 
 ## Solution architecture
 
+![Solution architecture](Docs/a_clean_infographic_diagram_on_a_white_background.png)
+
+The diagram above provides a portfolio-friendly representation of the production workflow. It uses synthetic information and intentionally omits confidential client and employee data.
+
 ```text
 External accountant
        |
