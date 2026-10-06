@@ -1,0 +1,6 @@
+FILE_KEY,EMPLOYEE_NAME,EMAIL,BRANCH,STATUS
+PEREZ,Maria Perez,maria.perez@example.com,Branch 01,OK
+GARCIA JUAN,Juan Garcia,juan.garcia@example.com,Branch 02,OK
+CASTRO BENITES,Ana Castro Benites,ana.castro@example.com,Branch 03,OK
+ROMERO GUILL,Guillermo Romero,guillermo.romero@example.com,Branch 01,OK
+LOPEZ,, ,Branch 04,REVIEW
